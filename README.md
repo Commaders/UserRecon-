@@ -15,3 +15,9 @@ git clone https://github.com/Commaders/UserRecon-
 cd UserRecon-
 
 bash userracon.sh
+```
+
+## To  Become Sponsor
+## 2$ A Week
+
+https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
